@@ -1,0 +1,10 @@
+.right-block a {
+  transition: .4s;
+}.right-block a:hover {
+  color: #c90309;
+  letter-spacing: .2px;
+}
+
+.color-white  {
+  text-decoration: none;
+}
